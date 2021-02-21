@@ -1,0 +1,13 @@
+# Language
+export LANG=ja_JP.UTF-8
+export LC_CTYPE=ja_JP.UTF-8
+#export LC_ALL=ja_JP.UTF-8
+
+# Default terminal
+export TERMINAL=termite
+
+# IME setting
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+export DefaultIMModule=fcitx
